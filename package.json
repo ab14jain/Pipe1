@@ -27,9 +27,9 @@
     "react-dom": "15.6.2"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.6.0",
+    "@microsoft/sp-build-web": "1.15.2",
     "@microsoft/sp-module-interfaces": "1.6.0",
-    "@microsoft/sp-webpart-workbench": "1.6.0",
+    "@microsoft/sp-webpart-workbench": "1.12.1",
     "@types/chai": "3.4.34",
     "@types/enzyme": "3.1.10",
     "@types/jest": "22.2.3",
