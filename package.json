@@ -27,9 +27,9 @@
     "react-dom": "15.6.2"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.6.0",
+    "@microsoft/sp-build-web": "1.15.2",
     "@microsoft/sp-module-interfaces": "1.6.0",
-    "@microsoft/sp-webpart-workbench": "1.6.0",
+    "@microsoft/sp-webpart-workbench": "1.12.1",
     "@types/chai": "3.4.34",
     "@types/enzyme": "3.1.10",
     "@types/jest": "22.2.3",
@@ -38,7 +38,7 @@
     "ajv": "~5.2.2",
     "enzyme": "3.3.0",
     "enzyme-adapter-react-15": "1.0.5",
-    "gulp": "~3.9.1",
+    "gulp": "~4.0.2",
     "identity-obj-proxy": "3.0.0",
     "jest": "22.4.3",
     "jest-junit": "3.7.0",
